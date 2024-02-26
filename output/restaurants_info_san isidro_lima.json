@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Astrid y Gastón",
+        "address": "Av. Paz Soldán 290, San Isidro 15073",
+        "phone_number": "(01) 4422777",
+        "website": "http://www.astridygaston.com/",
+        "rating": 4.6,
+        "opening_hours": {
+            "monday": "12:00 PM - 04:00 PM",
+            "wednesday": "07:00 PM - 10:30 PM",
+            "thursday": "07:00 PM - 10:30 PM",
+            "friday": "07:00 PM - 10:30 PM",
+            "saturday": "07:00 PM - 10:30 PM",
+            "sunday": "07:00 PM - 10:30 PM"
+        },
+        "reviews": {
+            "number_1": {
+                "author": "Luis Fernando Garcia",
+                "text": "Llegamos con muchas espectativas ya que estabamos llendo a uno de los mejores restaurantes de Peru. Sin embargo varias cosas no cumplieron nuestras espectativas. Primero, el lugar es muy bello por fuera, sin embargo en la mesa al interior donde nos ubicaron habia un olor muy fuerte a cañeria y baño. Por otra parte, cuando mi esposa solicito que se le informase que platos no eran picantes, el mesero solo dijo que todos los platos en peru tienen aroma de aji... Y no respondio la pregunta especifica. La comida, estaba bien y con muy buena presentacion, sin embargo nada fuera de lo comun respecto a lo que probamos en otros restaurantes de Peru.",
+                "rating": 3
+            },
+            "number_2": {
+                "author": "Andrea Moyano",
+                "text": "Excelente atención del personal y ambiente cálido y agradable! La comida, no nos sorprendió. Entradas pequeñas. Platos principales, normales. Muy cuidados los detalles,  tanto en el lugar como en cada plato que llega a la mesa. Precios elevados.",
+                "rating": 3
+            },
+            "number_3": {
+                "author": "Guillermo Gómez",
+                "text": "Sencillamemte espectacular. El lugar, el servicio y la comida, inigualables. Los tacos de cuy estaban buenísimos, el camarón de Río delicioso y el cochinillo es increíble. Es un lugar para repetir tantas veces como se pueda; es más, vale la pena ir a Lima solo por este restaurante.",
+                "rating": 5
+            },
+            "number_4": {
+                "author": "Emma Fernández Fernández",
+                "text": "Buen ambiente y servicio, sin embargo esperábamos más de un lugar con este renombre. Muchos de los platos nos dejaron bastante decepcionados: entradas como la vichyssoise o el ceviche de alcachofa no estaban demasiado logrados, el arroz es una mala reinterpretation de una paella española, desde luego el punto del arroz estaba pasadísimo y el mero estaba demasiado cocinado, si bien su salsa y el tamal que lo acompañaba era fantástico. Los postres también nos dejaron bastante decepcionados, tanto el chocolate como la cheesecake no destacaron en absoluto, desgraciadamente. Su cesta de panes es un triunfo, sin duda, pero en un restaurante de esta categoría el pan no debería despuntar por encima de sus propuestas. Calidad precio no lo recomendaría.",
+                "rating": 3
+            },
+            "number_5": {
+                "author": "Emanuel Arias",
+                "text": "Excelente, unos de los mejores restaurantes de Lima, podría decir de todo Perú. Muy buena experiencia desde que llegas hasta que te vas. Están atentos en casa detalle. El ambiente es muy bueno, visualmente es único. La comida es excelente. Totalmente recomendado ⭐⭐⭐⭐⭐.",
+                "rating": 5
+            }
+        }
+    },
+    {
+        "name": "Osaka",
+        "address": "Felipe, Av. Pardo y Aliaga 660, San Isidro 15073",
+        "phone_number": "(01) 2220405",
+        "website": "http://www.osakanikkei.com/",
+        "rating": 4.7,
+        "opening_hours": {
+            "monday": "12:30 PM - 10:30 PM",
+            "tuesday": "12:30 PM - 12:00 AM",
+            "wednesday": "12:30 PM - 12:00 AM",
+            "thursday": "12:30 PM - 12:00 AM",
+            "friday": "12:30 PM - 12:00 AM",
+            "saturday": "12:30 PM - 12:00 AM",
+            "sunday": "12:30 PM - 12:00 AM"
+        },
+        "reviews": {
+            "number_1": {
+                "author": "Juan Lozano",
+                "text": "¡¡Excelente!!. La comida es muy buena, variada y sorprendente. La atención rápida, cálida y amable. El local agradable, con un ambiente ameno. Celebré mi cumpleaños allá y me lo festejaron. Un restaurante para volver sin duda.",
+                "rating": 5
+            },
+            "number_2": {
+                "author": "Mijail Carpio",
+                "text": "El restaurante Osaka ofrece un ambiente sumamente sofisticado, donde se percibe la perfecta fusión entre la cocina peruana y japonesa. Los platos son excepcionales, logrando una armonía única entre el estilo japonés y los sabores peruanos. Se recomienda hacer reservas y mencionar cualquier alergia al ordenar para una experiencia culinaria sin contratiempos y llena de sabores cautivadores.",
+                "rating": 4
+            },
+            "number_3": {
+                "author": "Alfonso Cortes",
+                "text": "Lugar con gran diseño y buena comida pero servicio deficiente para el nivel y precio. Meseros no saben la carta, no están atentos a nuevos pedidos. Comida japonesa fusión peruana, los mejores platillos son los acevichados. En general buen lugar, pero el servicio tiene muchas áreas de oportunidad.",
+                "rating": 4
+            },
+            "number_4": {
+                "author": "Andrea Moyano",
+                "text": "La cena no fue lo esperado. La comida Kuroi ramen: escasa, los mariscos muy pocos, eran decorativos y los fideos ramen estaban pegados a la sarten y secos. Las bebidas sin alcohol: sin sabor, puro hielo. Las entradas: muy diminutas. Además, trajeron primero el plato de fondo y luego la entrada. La experiencia fue completamente distinta a la de la noche anterior que asistimos, donde nos atendió un mozo Gonzalo, que fue muy servicial y explicó con detalle cada plato. La segunda noche fue una completa desilusión, además, los precios son elevados. Ambiente y decoración: muy bueno.",
+                "rating": 3
+            },
+            "number_5": {
+                "author": "Mike De Llano",
+                "text": "De los mejores restaurantes japoneses a los que he ido sin duda. Toda la comida está espectacular. La única queja es el servicio que nos tocó, al mesero se le olvidaron varios platillos y bebidas, pero aún así merece 5 estrellas el lugar.",
+                "rating": 5
+            }
+        }
+    },
+    {
+        "name": "Primos Chicken Bar San Isidro",
+        "address": "Av. Los Conquistadores 201, San Isidro 15073",
+        "phone_number": "(01) 6804049",
+        "website": "http://www.primoschickenbar.pe/",
+        "rating": 4.4,
+        "opening_hours": {
+            "monday": "12:00 PM - 10:30 PM",
+            "tuesday": "12:00 PM - 10:30 PM",
+            "wednesday": "12:00 PM - 10:30 PM",
+            "thursday": "12:00 PM - 10:30 PM",
+            "friday": "12:00 PM - 10:30 PM",
+            "saturday": "12:00 PM - 11:00 PM",
+            "sunday": "12:00 PM - 11:00 PM"
+        },
+        "reviews": {
+            "number_1": {
+                "author": "Asiole Garcia",
+                "text": "Al llegar la chica que estaba en la puerta de abajo siendo discapacitada no me permitía entrar. Mi hijo le tuvo que explicar que no podía subir escaleras. Luego tardaron en limpiar una mesa vacía mientras esperaba y al final no la limpiaron y me mandaron a otra mas lejos para mi problema de rodillas. Tampoco recibí atención sino de un señor que si fue amable. Pero tardaba porque estaba solo para todas las mesas. Una de las chicas hablaba con la cajera y no le importaba los clientes. Muy insatisfecha de la atención de la joven del día 8 de Enero en la tarde 2pm.",
+                "rating": 3
+            },
+            "number_2": {
+                "author": "Cristhian F Hernandez S",
+                "text": "Ligar muy bueno para comer un buen pollo a las brasas. Es agradable el lugar y bien decorado. La porción es llenadora. Yo lo acompañe con una buena jarra de chicha.",
+                "rating": 5
+            },
+            "number_3": {
+                "author": "Patricia Sanchez Loyola",
+                "text": "Tenia altas expectativas sobre esta pollería, sin embargo habiendo tenido la oportunidad de haber probado en varias pollerias anteriores,  siento que no es tan espectacular como se menciona , si es agradable pero para que te haga sentir un sabor único,  yo diría que no, cuestión de cada uno, particularmente según el precio actual está 33 soles el 1/4 de pollo , siento que no esta a la altura , por otro lado, el servicio fue rápido y no tuve problemas al encontrar mesa, en conclusión bueno.",
+                "rating": 4
+            },
+            "number_4": {
+                "author": "Daniel G",
+                "text": "Restaurante especializado en pollo a la brasa, ofrecen carnes a la parrilla, hamburguesas, chicken crispers y piquéis variados de buena calidad y porción. Sabor agradable, local bien presentado. Es difícil encontrar estacionamiento pero no imposible. Lo único malo es la bulla que se escucha en uno de los salones. Deberían implementar algún diseño acústico que permita reducir la bulla generada por la cantidad de personas en el salón. Existe buena relación calidad precio. Cabe resaltar la mayonesa que ofrecen para acompañar es muy sabrosa.",
+                "rating": 4
+            },
+            "number_5": {
+                "author": "Marisella Hoyos",
+                "text": "El ambiente es muy bonito y grande. La atención por parte de los mozos muy buena , atentos y amables .Regresare , lo recomiendo.",
+                "rating": 5
+            }
+        }
+    }
+]
