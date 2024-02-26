@@ -6,13 +6,13 @@
         "website": "",
         "rating": 4.3,
         "opening_hours": {
-            "Monday": "09:30 AM - 07:00 PM",
-            "Tuesday": "09:30 AM - 07:00 PM",
-            "Wednesday": "09:30 AM - 10:30 PM",
-            "Thursday": "09:30 AM - 10:30 PM",
-            "Friday": "09:30 AM - 10:30 PM",
-            "Saturday": "09:30 AM - 10:30 PM",
-            "Sunday": "09:30 AM - 10:30 PM"
+            "monday": "09:30 AM - 07:00 PM",
+            "tuesday": "09:30 AM - 10:30 PM",
+            "wednesday": "09:30 AM - 10:30 PM",
+            "thursday": "09:30 AM - 10:30 PM",
+            "friday": "09:30 AM - 10:30 PM",
+            "saturday": "09:30 AM - 10:30 PM",
+            "sunday": "09:30 AM - 07:00 PM"
         },
         "reviews": {
             "1_author": "Sebastián Llosa",
@@ -39,13 +39,13 @@
         "website": "http://www.nanka.pe/",
         "rating": 4.6,
         "opening_hours": {
-            "Monday": "12:30 PM - 05:30 PM",
-            "Tuesday": "12:30 PM - 10:30 PM",
-            "Wednesday": "12:30 PM - 10:30 PM",
-            "Thursday": "12:30 PM - 10:30 PM",
-            "Friday": "12:30 PM - 10:30 PM",
-            "Saturday": "12:30 PM - 10:30 PM",
-            "Sunday": "12:30 PM - 10:30 PM"
+            "monday": "12:30 PM - 10:30 PM",
+            "tuesday": "12:30 PM - 10:30 PM",
+            "wednesday": "12:30 PM - 10:30 PM",
+            "thursday": "12:30 PM - 10:30 PM",
+            "friday": "12:30 PM - 10:30 PM",
+            "saturday": "12:30 PM - 10:30 PM",
+            "sunday": "12:30 PM - 05:30 PM"
         },
         "reviews": {
             "1_author": "Laura Chavez",
@@ -72,13 +72,13 @@
         "website": "http://www.elhornero.com.pe/",
         "rating": 4.5,
         "opening_hours": {
-            "Monday": "11:30 AM - 10:00 PM",
-            "Tuesday": "11:30 AM - 12:00 AM",
-            "Wednesday": "11:30 AM - 12:00 AM",
-            "Thursday": "11:30 AM - 12:00 AM",
-            "Friday": "11:30 AM - 12:00 AM",
-            "Saturday": "11:30 AM - 12:00 AM",
-            "Sunday": "11:30 AM - 12:00 AM"
+            "monday": "11:30 AM - 12:00 AM",
+            "tuesday": "11:30 AM - 12:00 AM",
+            "wednesday": "11:30 AM - 12:00 AM",
+            "thursday": "11:30 AM - 12:00 AM",
+            "friday": "11:30 AM - 12:00 AM",
+            "saturday": "11:30 AM - 12:00 AM",
+            "sunday": "11:30 AM - 10:00 PM"
         },
         "reviews": {
             "1_author": "Claudia Bermudez Utor",

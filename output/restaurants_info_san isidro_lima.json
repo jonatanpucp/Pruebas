@@ -1,128 +1,129 @@
 [
     {
-        "name": "Astrid y Gastón",
-        "address": "Av. Paz Soldán 290, San Isidro 15073",
-        "phone_number": "(01) 4422777",
-        "website": "http://www.astridygaston.com/",
+        "name": "El Hornero",
+        "address": "Av. Dos de Mayo 758, San Isidro 15073",
+        "phone_number": "(01) 4210162",
+        "website": "http://www.elhornero.com.pe/",
+        "rating": 4.5,
+        "opening_hours": {
+            "monday": "11:30 AM - 12:00 AM",
+            "tuesday": "11:30 AM - 12:00 AM",
+            "wednesday": "11:30 AM - 12:00 AM",
+            "thursday": "11:30 AM - 12:00 AM",
+            "friday": "11:30 AM - 12:00 AM",
+            "saturday": "11:30 AM - 12:00 AM",
+            "sunday": "11:30 AM - 10:00 PM"
+        },
+        "reviews": {
+            "number_1": {
+                "author": "Claudia Bermudez Utor",
+                "text": "La comida estuvo bien, las pastas muy ricas la verdad. Hacia muchísimo calor en el local y el aire acondicionado funcionaba mal, era un poco insoportable. Al llegar te ponen una canasta de pan \"que no has pedido\" y después te la cobran como consumo por cada persona sin siquiera consultarte o informarte. La próxima vez que me hagan eso voy a denunciarlos antes Indecopi.",
+                "rating": 3
+            },
+            "number_2": {
+                "author": "Gianella Chapoñan",
+                "text": "Muy agradable lugar, siempre que estoy en Lima, paso por este lugar, tiene unos cortes de carne muy buenos y deliciosos 🫶 La atención super rápida y cordial sobretodo. Super recomendado 😍.",
+                "rating": 5
+            },
+            "number_3": {
+                "author": "Willy Cano Alatrista",
+                "text": "Buen lugar, bastante concurrido. La comida deliciosa. Los meseros parecen atentos, pero creo que solo eso… parecen o lo son selectivamente. Pedimos una porción extra de papas que demoraron demasiado, lo mismo con la cuenta. La comida muy buena. La atención no me gustó.",
+                "rating": 3
+            },
+            "number_4": {
+                "author": "Marco Ramirez",
+                "text": "Buena opción de carnes. Mejorar ventilación y aire acondicionado. Mejorar servicio, tuvimos que pedir 3 veces la carta de postres. Incorporar salsas adicionales para acompañar la carne. Creo que para almuerzo, la opción de 2 de mayo resulta poco atractiva, regresaré a Chorrillos.",
+                "rating": 3
+            },
+            "number_5": {
+                "author": "José Carrillo",
+                "text": "Nada Del otro mundo. La atención bajo bastante, se pidió término medio, la trajeron muy cocida. La atención nada buena.",
+                "rating": 3
+            }
+        }
+    },
+    {
+        "name": "Nanka",
+        "address": "C. Manuel Bañón 260, San Isidro 15073",
+        "phone_number": "994 294 931",
+        "website": "http://www.nanka.pe/",
         "rating": 4.6,
         "opening_hours": {
-            "monday": "12:00 PM - 04:00 PM",
-            "wednesday": "07:00 PM - 10:30 PM",
-            "thursday": "07:00 PM - 10:30 PM",
-            "friday": "07:00 PM - 10:30 PM",
-            "saturday": "07:00 PM - 10:30 PM",
-            "sunday": "07:00 PM - 10:30 PM"
-        },
-        "reviews": {
-            "number_1": {
-                "author": "Luis Fernando Garcia",
-                "text": "Llegamos con muchas espectativas ya que estabamos llendo a uno de los mejores restaurantes de Peru. Sin embargo varias cosas no cumplieron nuestras espectativas. Primero, el lugar es muy bello por fuera, sin embargo en la mesa al interior donde nos ubicaron habia un olor muy fuerte a cañeria y baño. Por otra parte, cuando mi esposa solicito que se le informase que platos no eran picantes, el mesero solo dijo que todos los platos en peru tienen aroma de aji... Y no respondio la pregunta especifica. La comida, estaba bien y con muy buena presentacion, sin embargo nada fuera de lo comun respecto a lo que probamos en otros restaurantes de Peru.",
-                "rating": 3
-            },
-            "number_2": {
-                "author": "Andrea Moyano",
-                "text": "Excelente atención del personal y ambiente cálido y agradable! La comida, no nos sorprendió. Entradas pequeñas. Platos principales, normales. Muy cuidados los detalles,  tanto en el lugar como en cada plato que llega a la mesa. Precios elevados.",
-                "rating": 3
-            },
-            "number_3": {
-                "author": "Guillermo Gómez",
-                "text": "Sencillamemte espectacular. El lugar, el servicio y la comida, inigualables. Los tacos de cuy estaban buenísimos, el camarón de Río delicioso y el cochinillo es increíble. Es un lugar para repetir tantas veces como se pueda; es más, vale la pena ir a Lima solo por este restaurante.",
-                "rating": 5
-            },
-            "number_4": {
-                "author": "Emma Fernández Fernández",
-                "text": "Buen ambiente y servicio, sin embargo esperábamos más de un lugar con este renombre. Muchos de los platos nos dejaron bastante decepcionados: entradas como la vichyssoise o el ceviche de alcachofa no estaban demasiado logrados, el arroz es una mala reinterpretation de una paella española, desde luego el punto del arroz estaba pasadísimo y el mero estaba demasiado cocinado, si bien su salsa y el tamal que lo acompañaba era fantástico. Los postres también nos dejaron bastante decepcionados, tanto el chocolate como la cheesecake no destacaron en absoluto, desgraciadamente. Su cesta de panes es un triunfo, sin duda, pero en un restaurante de esta categoría el pan no debería despuntar por encima de sus propuestas. Calidad precio no lo recomendaría.",
-                "rating": 3
-            },
-            "number_5": {
-                "author": "Emanuel Arias",
-                "text": "Excelente, unos de los mejores restaurantes de Lima, podría decir de todo Perú. Muy buena experiencia desde que llegas hasta que te vas. Están atentos en casa detalle. El ambiente es muy bueno, visualmente es único. La comida es excelente. Totalmente recomendado ⭐⭐⭐⭐⭐.",
-                "rating": 5
-            }
-        }
-    },
-    {
-        "name": "Osaka",
-        "address": "Felipe, Av. Pardo y Aliaga 660, San Isidro 15073",
-        "phone_number": "(01) 2220405",
-        "website": "http://www.osakanikkei.com/",
-        "rating": 4.7,
-        "opening_hours": {
             "monday": "12:30 PM - 10:30 PM",
-            "tuesday": "12:30 PM - 12:00 AM",
-            "wednesday": "12:30 PM - 12:00 AM",
-            "thursday": "12:30 PM - 12:00 AM",
-            "friday": "12:30 PM - 12:00 AM",
-            "saturday": "12:30 PM - 12:00 AM",
-            "sunday": "12:30 PM - 12:00 AM"
+            "tuesday": "12:30 PM - 10:30 PM",
+            "wednesday": "12:30 PM - 10:30 PM",
+            "thursday": "12:30 PM - 10:30 PM",
+            "friday": "12:30 PM - 10:30 PM",
+            "saturday": "12:30 PM - 10:30 PM",
+            "sunday": "12:30 PM - 05:30 PM"
         },
         "reviews": {
             "number_1": {
-                "author": "Juan Lozano",
-                "text": "¡¡Excelente!!. La comida es muy buena, variada y sorprendente. La atención rápida, cálida y amable. El local agradable, con un ambiente ameno. Celebré mi cumpleaños allá y me lo festejaron. Un restaurante para volver sin duda.",
+                "author": "Laura Chavez",
+                "text": "El lugar me gusto, estuvimos en la terraza. El personal calificado un 10. El almuerzo estuvo muy al gusto, calidad y fresco.",
                 "rating": 5
             },
             "number_2": {
-                "author": "Mijail Carpio",
-                "text": "El restaurante Osaka ofrece un ambiente sumamente sofisticado, donde se percibe la perfecta fusión entre la cocina peruana y japonesa. Los platos son excepcionales, logrando una armonía única entre el estilo japonés y los sabores peruanos. Se recomienda hacer reservas y mencionar cualquier alergia al ordenar para una experiencia culinaria sin contratiempos y llena de sabores cautivadores.",
+                "author": "Michelle Abregú",
+                "text": "Pedimos pizza con vegetales, raviolis de seco de pato, arroz acevichado con pato, una porción de papas nativas y bolitas de quinua como entrada. Todo estuvo bien, aunque los raviolis y el seco de pato destacaron entre los demás platos. Lo único malo fue que no había en el menú su famoso lomo saltado, fuimos un jueves y no había carnes ese día. La atención es buena, el local es bonito y los precios son razonables (varían entre 39-79 soles por plato).",
                 "rating": 4
             },
             "number_3": {
-                "author": "Alfonso Cortes",
-                "text": "Lugar con gran diseño y buena comida pero servicio deficiente para el nivel y precio. Meseros no saben la carta, no están atentos a nuevos pedidos. Comida japonesa fusión peruana, los mejores platillos son los acevichados. En general buen lugar, pero el servicio tiene muchas áreas de oportunidad.",
-                "rating": 4
+                "author": "Nicole Lavanchy",
+                "text": "Buen restaurante, con muy buena decoración, comida riquísima y excelente atención. La carta es pequeña, y tiene propuestas de platos muy interesantes, con sabores que se hacen notar e ingredientes orgánicos. Me llamo la atención mucho que un porcentaje del valor de mi plato, iba destinado en ayuda a una fundación. La carta de tragos y líquidos es buena. Lo otro, que me pareció buenísimo, es la servicial, atenta y preparada atención del personal. Me parece una muy buena alternativa de restaurante, con precios muy asequibles. Lo recomiendo muchísimo.",
+                "rating": 5
             },
             "number_4": {
-                "author": "Andrea Moyano",
-                "text": "La cena no fue lo esperado. La comida Kuroi ramen: escasa, los mariscos muy pocos, eran decorativos y los fideos ramen estaban pegados a la sarten y secos. Las bebidas sin alcohol: sin sabor, puro hielo. Las entradas: muy diminutas. Además, trajeron primero el plato de fondo y luego la entrada. La experiencia fue completamente distinta a la de la noche anterior que asistimos, donde nos atendió un mozo Gonzalo, que fue muy servicial y explicó con detalle cada plato. La segunda noche fue una completa desilusión, además, los precios son elevados. Ambiente y decoración: muy bueno.",
-                "rating": 3
+                "author": "Guillermo Delgado",
+                "text": "Nanka siempre es Nanka. Un lugar donde cada plato es una sorpresa más exquisita que la anterior. Presentación de primera con sabores excepcionales que no se encuentran en ningún otro lado. Son capaces de reinventar un plato tan clásico como el cebiche y otorgarle un toque único. Obras de arte que el paladar agradece con jolgorio.",
+                "rating": 5
             },
             "number_5": {
-                "author": "Mike De Llano",
-                "text": "De los mejores restaurantes japoneses a los que he ido sin duda. Toda la comida está espectacular. La única queja es el servicio que nos tocó, al mesero se le olvidaron varios platillos y bebidas, pero aún así merece 5 estrellas el lugar.",
-                "rating": 5
+                "author": "Alice Zymelka",
+                "text": "𝙁𝙤𝙤𝙙 / 𝘾𝙤𝙢𝙞𝙙𝙖: ⭐⭐⭐⭐⭐ 5/5 𝘿𝙧𝙞𝙣𝙠𝙨 / 𝘽𝙚𝙗𝙞𝙙𝙖𝙨: ⭐⭐⭐⭐⭐ 5/5 𝙎𝙚𝙧𝙫𝙞𝙘𝙚 / 𝘼𝙩𝙚𝙣𝙘𝙞ó𝙣: ⭐⭐⭐⭐ 4/5 𝙋𝙧𝙤𝙩𝙤𝙘𝙤𝙡𝙨 / 𝙋𝙧𝙤𝙩𝙤𝙘𝙤𝙡𝙤𝙨: Regular 𝙉𝙤𝙞𝙨𝙚 𝙡𝙚𝙫𝙚𝙡 / 𝙉𝙞𝙫𝙚𝙡 𝙙𝙚 𝙧𝙪𝙞𝙙𝙤: ⭐⭐⭐ 3/5  ⒺⓈ:  Un lugar muy agradable para almorzar. Intente reservar una mesa afuera, será menos ruidoso. El restaurante está abierto en algunas partes y ofrece una buena ventilación si te sientas dentro. El nivel de ruido en el interior era un poco alto. El personal era muy amable, pero tomó un poco de tiempo para hacer nuestros pedidos. La presentación de la comida es muy hermosa y la comida sabe muy bien: el menú ofrece una buena variedad de platos para elegir. ⒺⓃ:  Very nice place to have lunch at - try to book a table outside, it will be less noisy. The restaurant is open at some parts and gives a good ventilation if you sit inside though. The noise level inside was a bit to loud. The staff was very friendly but it took a bit if time to place our orders. The food presentation is very beautiful and the food tastes really good - the menu offers a good variety of dishes to chose from.",
+                "rating": 4
             }
         }
     },
     {
-        "name": "Primos Chicken Bar San Isidro",
-        "address": "Av. Los Conquistadores 201, San Isidro 15073",
-        "phone_number": "(01) 6804049",
-        "website": "http://www.primoschickenbar.pe/",
-        "rating": 4.4,
+        "name": "Callao Bistro",
+        "address": "Av. Dos de Mayo 561, San Isidro 15073",
+        "phone_number": "922 002 447",
+        "website": "",
+        "rating": 4.3,
         "opening_hours": {
-            "monday": "12:00 PM - 10:30 PM",
-            "tuesday": "12:00 PM - 10:30 PM",
-            "wednesday": "12:00 PM - 10:30 PM",
-            "thursday": "12:00 PM - 10:30 PM",
-            "friday": "12:00 PM - 10:30 PM",
-            "saturday": "12:00 PM - 11:00 PM",
-            "sunday": "12:00 PM - 11:00 PM"
+            "monday": "09:30 AM - 07:00 PM",
+            "tuesday": "09:30 AM - 10:30 PM",
+            "wednesday": "09:30 AM - 10:30 PM",
+            "thursday": "09:30 AM - 10:30 PM",
+            "friday": "09:30 AM - 10:30 PM",
+            "saturday": "09:30 AM - 10:30 PM",
+            "sunday": "09:30 AM - 07:00 PM"
         },
         "reviews": {
             "number_1": {
-                "author": "Asiole Garcia",
-                "text": "Al llegar la chica que estaba en la puerta de abajo siendo discapacitada no me permitía entrar. Mi hijo le tuvo que explicar que no podía subir escaleras. Luego tardaron en limpiar una mesa vacía mientras esperaba y al final no la limpiaron y me mandaron a otra mas lejos para mi problema de rodillas. Tampoco recibí atención sino de un señor que si fue amable. Pero tardaba porque estaba solo para todas las mesas. Una de las chicas hablaba con la cajera y no le importaba los clientes. Muy insatisfecha de la atención de la joven del día 8 de Enero en la tarde 2pm.",
-                "rating": 3
+                "author": "Sebastián Llosa",
+                "text": "Precio altos (la mayoria de platos por encima de los 50-60 soles) y el sabor deja mucho que desear. No me parece que tenga una buena relación precio-calidad, por esto no es un restaurante al que volveria. El ambiente si es bonito y tranquilo.",
+                "rating": 2
             },
             "number_2": {
-                "author": "Cristhian F Hernandez S",
-                "text": "Ligar muy bueno para comer un buen pollo a las brasas. Es agradable el lugar y bien decorado. La porción es llenadora. Yo lo acompañe con una buena jarra de chicha.",
-                "rating": 5
+                "author": "Fiorela Figueroa Anccasi",
+                "text": "Bonito lugar, algo caro, pero de buen sabor. El baño era muy pequeño, entendible por el lugar.",
+                "rating": 4
             },
             "number_3": {
-                "author": "Patricia Sanchez Loyola",
-                "text": "Tenia altas expectativas sobre esta pollería, sin embargo habiendo tenido la oportunidad de haber probado en varias pollerias anteriores,  siento que no es tan espectacular como se menciona , si es agradable pero para que te haga sentir un sabor único,  yo diría que no, cuestión de cada uno, particularmente según el precio actual está 33 soles el 1/4 de pollo , siento que no esta a la altura , por otro lado, el servicio fue rápido y no tuve problemas al encontrar mesa, en conclusión bueno.",
-                "rating": 4
+                "author": "Luis Arturo Gensollen Kaisen",
+                "text": "Pésimo servicio, platos caros y desabridos, no confiar en Google para estas cosas gastronómicas, solo entramos por la fachada que se veía agradable. No recomendado de nuestra parte además dejamos parte del almuerzo por el sabor desagradable. Agrego que estuve enfermo por 2 días del estómago por comer aquí.",
+                "rating": 1
             },
             "number_4": {
-                "author": "Daniel G",
-                "text": "Restaurante especializado en pollo a la brasa, ofrecen carnes a la parrilla, hamburguesas, chicken crispers y piquéis variados de buena calidad y porción. Sabor agradable, local bien presentado. Es difícil encontrar estacionamiento pero no imposible. Lo único malo es la bulla que se escucha en uno de los salones. Deberían implementar algún diseño acústico que permita reducir la bulla generada por la cantidad de personas en el salón. Existe buena relación calidad precio. Cabe resaltar la mayonesa que ofrecen para acompañar es muy sabrosa.",
-                "rating": 4
+                "author": "Oscar Walking",
+                "text": "Muy buen sandwich de pejerrey frito arrebozado con papas fritas y deliciosos calamares fritos. Alitas fritas y anticuchos muy buenos también. Excelente y atento servicio. Totalmente Recomendado !",
+                "rating": 5
             },
             "number_5": {
-                "author": "Marisella Hoyos",
-                "text": "El ambiente es muy bonito y grande. La atención por parte de los mozos muy buena , atentos y amables .Regresare , lo recomiendo.",
+                "author": "Nicolas Curro",
+                "text": "Lindo lugar, local pequeño pero bien decorado. La comida estuvo muy buena pedimos una Orgia Marina muy bien servida qué nos permitió probar un poco de todo. Excelente su pan con pejerrey y buena porción. Precios un poco elevados pero vale la pena. Volveré luego del verano para seguir probando sus platos. Recomendable.",
                 "rating": 5
             }
         }
